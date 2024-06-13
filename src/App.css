@@ -1,0 +1,12 @@
+body{
+      background-color: rgb(21, 178, 178);
+}
+.title{
+  font-size: 60px;
+  text-wrap: 2px;
+}
+
+.title span{
+      color: rgb(32, 205, 182);
+     padding-left: 15px;
+}
